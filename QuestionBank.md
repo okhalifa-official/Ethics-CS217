@@ -264,24 +264,31 @@
 ### 1. Define digital security risks and explain their impact on organizations.
 <details>
   <summary>Show Answer</summary>
-  Answer: Digital security risks refer to threats that can compromise the integrity, confidentiality, and availability of an organization's digital assets. These risks include Internet and network attacks, unauthorized access, hardware and software theft, information theft, and system failures.
-
-  Impact on organizations:
-  - Financial Loss: Due to data breaches and cyberattacks.
-  - Reputation Damage: Loss of customer trust due to compromised security.
-  - Legal Consequences: Non-compliance with data protection laws.
-  - Operational Disruptions: Cyberattacks can shut down critical systems.
+  Answer: <br><b>Digital security risks:</b><br>
+  <blockquote>
+  refer to threats that can compromise the <b>integrity, confidentiality, and availability of an organization's digital assets</b>.
+    These <b>risks</b> include Internet and network attacks, unauthorized access, hardware and software theft, information theft, and system failures.
+  </blockquote>
+  <b>Impact on organizations:</b><br>
+  <blockquote>
+  - <b>Financial Loss</b>: Due to data breaches and cyberattacks.<br>
+  - <b>Reputation Damage</b>: Loss of customer trust due to compromised security.<br>
+  - <b>Legal Consequences</b>: Non-compliance with data protection laws.<br>
+  - <b>Operational Disruptions</b>: Cyberattacks can shut down critical systems.<br>
+  </blockquote>
 </details>
 
 ### 2. Discuss the importance of protecting personal data online.
 <details>
   <summary>Show Answer</summary>
-  Answer: Protecting personal data online is essential to prevent identity theft, financial fraud, and privacy invasion. Social media platforms and online services collect vast amounts of personal information. Without proper security measures, attackers can use this data for malicious activities.
+  Answer: Protecting personal data online is essential to <br><b>prevent identity theft, financial fraud, and privacy invasion</b>. <br>Social media platforms and online services collect vast amounts of personal information. Without proper security measures, attackers can use this data for malicious activities.
 
   Preventive measures include:
-  - Using strong, unique passwords and multi-factor authentication (MFA).
-  - Avoiding clicking on suspicious links or emails (phishing attacks).
-  - Regularly checking if accounts have been compromised using services like [Have I Been Pwned](https://haveibeenpwned.com/).
+  <blockquote>
+  - Using strong, unique passwords and multi-factor authentication (MFA).<br>
+  - Avoiding clicking on suspicious links or emails (phishing attacks).<br>
+  - Regularly checking if accounts have been compromised using services like [Have I Been Pwned](https://haveibeenpwned.com/).<br>
+    </blockquote>
 </details>
 
 ### 3. How does unauthorized access pose a threat to cybersecurity?
@@ -290,10 +297,12 @@
   Answer: Unauthorized access refers to individuals gaining access to a system or data without permission.
 
   Threats include:
-  - Data Theft: Hackers can steal sensitive company information.
-  - System Manipulation: Attackers can modify or delete crucial files.
-  - Identity Theft: Stolen personal data can be used for fraudulent activities.
-  - Malware Installation: Hackers can introduce trojans, viruses, and spyware to compromise system integrity.
+  <blockquote>
+  - <b>Data Theft</b>: Hackers can steal sensitive company information.<br>
+  - <b>System Manipulation</b>: Attackers can modify or delete crucial files.<br>
+  - <b>Identity Theft</b>: Stolen personal data can be used for fraudulent activities.<br>
+  - <b>Malware Installation</b>: Hackers can introduce trojans, viruses, and spyware to compromise system integrity.<br>
+  </blockquote>
 </details>
 
 ### 4. Explain the difference between hardware theft and software theft.
