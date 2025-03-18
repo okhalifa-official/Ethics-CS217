@@ -158,6 +158,30 @@ Encryption converts data into unreadable formats to prevent unauthorized access.
 
 ---
 
+# 🖥️ OSI Model Cheat Sheet
+
+## 📌 Trick to Remember (Bottom to Top)
+**"Please Do Not Throw Sausage Pizza Away"**  
+(P - Physical, D - Data Link, N - Network, T - Transport, S - Session, P - Presentation, A - Application)
+
+## 🌍 OSI Model Layers
+
+| **Layer #** | **Layer Name**    | **What It Does**                      | **Examples**                          |
+|------------|------------------|--------------------------------------|--------------------------------------|
+| **7️⃣ Application** | Apps & User Interaction | Handles software apps & user requests | Web browsers (Chrome), Email (SMTP) |
+| **6️⃣ Presentation** | Data Formatting & Encryption | Converts data into readable format, encrypts/decrypts | JPEG, MP3, SSL/TLS |
+| **5️⃣ Session** | Starts & Ends Conversations | Manages connections between devices | Login sessions, APIs, Netflix streaming |
+| **4️⃣ Transport** | Data Delivery & Reliability | Ensures data is delivered properly | TCP (reliable), UDP (faster but no guarantee) |
+| **3️⃣ Network** | Routing & IP Addressing | Finds best path for data to travel | IP, Routers, Ping, IPv4, IPv6 |
+| **2️⃣ Data Link** | MAC Address & Error Handling | Converts data into frames, handles MAC addresses | Switches, MAC addresses, Ethernet, Wi-Fi |
+| **1️⃣ Physical** | Cables & Hardware | Deals with actual hardware & connections | Wires, Fiber optic, Radio waves, USB, Hubs |
+
+## 💡 Quick Tips
+- **Top 3 Layers (Application, Presentation, Session)** = Software & Data Handling  
+- **Middle (Transport & Network)** = Data Flow & Routing  
+- **Bottom 2 (Data Link & Physical)** = Hardware & Connection  
+
+
 ## 🎯 Quick Exam Tips
 
 🔹 Prioritize **key concepts** (Ethics, security risks, solutions)  
